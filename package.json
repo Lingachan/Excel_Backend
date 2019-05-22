@@ -1,0 +1,31 @@
+{
+  "name": "excel_backend",
+  "version": "1.0.0",
+  "description": "Excel Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lingachan/excel_bckend.git"
+  },
+  "keywords": [
+    "Excel",
+    "Automation",
+    "Software",
+    "Excel",
+    "Template"
+  ],
+  "author": "Lingachandar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lingachan/excel_bckend/issues"
+  },
+  "homepage": "https://github.com/Lingachan/excel_bckend#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "mocha": "^6.1.4",
+    "mongoose": "^5.5.10"
+  }
+}
